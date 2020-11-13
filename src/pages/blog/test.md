@@ -1,29 +1,19 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: A guide to brewing with the Force
 date: 2017-01-04T15:04:10.000Z
+description: "Chewwy Says:"
 featuredpost: false
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
 tags:
   - brewing
-  - chemex
+  - Force
+  - coffee
 ---
-![chemex](/img/chemex.jpg)
+Lucas ipsum dolor sit amet max carondian vos ansionian hutt ulic haruun darth ansuroer aayla. Geonosian sullustan lyn tsavong vos kowakian roonan ulic. Secura moff shimrra mandalorians kalee. Talortai tambor obi-wan jax vuffi vella allie hobbie. Sullustan biggs hallotan chiss. Qui-gonn massa jax thakwaash toydarian wookiee obi-wan bespin yowza. Kubaz tierce reach vader fett tambor. Jin'ha ortolan trioculus shawda. Sulorine sulorine mygeeto lah secura umbaran meridian hoth. Gorax terrik deliah joh lytton gungan castell yuvernian cody.
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Aurra felucia vao terentatek codru-ji x'ting. Zev gand elrood biggs draethos. Utapaun halla bel pau'an dressellian bane mandalorians rukh ka. Tenel aayla gev yowza shimrra vestara garindan. Oppo ranat evazan sarn mandell asajj. Tsavong taung freedon hssis kit ansuroer wicket hoth. Amidala gran farlander meridian. Hutt neimoidian wessell jarael priapulin kashyyyk. Gwurran mace jerjerrod davin talortai. Bollux iktotchi yevetha hobbie. Ben medon sidious gorith asajj sullustan. Xanatos iktotchi epicanthix talortai jettster devaronian.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Jade antilles golda jaina aurra wol wol nomi lars. Doldur bail hutt sunrider gunray dormé croke deliah reach. Ima-gun dexter tagge quence allana. Dooku anomid bothan latter grievous bothan qrygg dressellian maul. Nelvaanian wicket hapes solo. Darth keyan tarkin vader thul tono tono max vao. Kel quee ansuroer aayla gallia cadavine durron gunray. Sebulba feeorin jan mace hoth zorba roos aqualish kobok. Cad dashade tagge jade meridian bertroff artaru dulok tiin. Walon lando juvex tyranus quelli illum boba xappyh.
 
-## The little secrets of Chemex brewing
-
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Skywalker lahara kota dorvalla cerean ki-adi-mundi noa owen togruta. Frozarns ozzel yavin shadda gungan lars kaleesh. Darth kiffar lyn cerean sola mace abyssin. Mustafar moff gonk darth. Twi'lek naberrie kanos gallia organa. C-3po cognus auril jarael unu bane. Olié ferroans yavin corran leia charal. Mustafarian moff kobok elrood rieekan conan jacen k-3po gilad. Hypori cerean moor doldur moff gorith spar leia umbaran. Klaatu tython skywalker fortuna durron cade gonk. Jan bibble khai shmi hutt veila.
