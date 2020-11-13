@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/products-grid3.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/logo.png
+heading: Services
+subheading: Services
 mainpitch:
   title: Why Kaldi
   description: >
@@ -11,59 +11,54 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: RHE
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        Residential Services - RHS
+
+
+        With many years of experience, our Overnight Caregivers have you covered. All candidates go through a vetting procedure of background checks and employment verification. We guarantee your child will receive the best possible care.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Host Home Services - HHS
+
+
+        Do you want your child in a family environment? We have a list of families that are willing to place your child in their home. Contact us to learn more!
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Supported Living - SLN/SLH
+
+
+        Fining someone to watch your child on your date night can be tricky. We offer a staff of 40+ individuals that can help!
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        
+        Day Program - DSG
+
+
+        We have two day programs. One in Lehi and one in West Jordan. Our main goal is to get out in the community. Check out our calendar to see all the fun activities we do!
+  heading: Mission
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    RHE’s mission is to fundamentally shift the processes and systems though
+    which UT provides disability services.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: RHE Services
+  description: |
+    The solution to those 4  problems and more. 
+    The back of house to a providers front of house operations. 
+    Overall systems licensor, manager and consultant. 
+    A network of micro-providers for micro-providers and other agencies
+    Independent advocate for IDD providers
+    A catalyst for change
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: MTP
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: RHS
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: HHS
     image: /img/products-grid1.jpg
 ---
